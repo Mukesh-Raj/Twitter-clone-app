@@ -10,6 +10,7 @@ This Twitter Clone is a small project using HTML / CSS / JavaScript Using Django
 
 ## Technologies used
 
+* Django
 * HTML
 * CSS
 * JavaScript
