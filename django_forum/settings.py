@@ -33,7 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["*"]
 CORS_ORIGIN_ALLOW_ALL=True
 CSRF_TRUSTED_ORIGINS = [
-    'http://0.0.0.0:3000',
+    'http://0.0.0.0:3000','https://twitter-clone-app.mukesh-raj.repl.co'
 ]
 
 # Application definition
