@@ -1,7 +1,7 @@
 # Twitter_Clone
 This Twitter Clone is a small project using HTML / CSS / JavaScript Using Django FrameWork . I will be using this to showcase my projects!
 
-[Live Replit Deployment](https://TwitterClone.mukeshraj5.repl.co)
+[Live Replit Deployment](https://twitter-clone-app.mukesh-raj.repl.co/)
 
 <!-- https://twitter-clone-app.mukesh-raj.repl.co/ -->
 
